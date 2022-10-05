@@ -22,3 +22,6 @@ content based + collaborative filtering(hybrid) <br />
 ##### for hands-on practice on movie dataset by grouplens over 100k ratings dataset
 5)Item based collaborative filtering <br /> 
 6)dataset for Item based collaborative filtering <br /> 
+##### hands on 
+7)adjusted cosine on movie dataset <br /> 
+8)jaccard_similarity on movie dataset <br /> 
