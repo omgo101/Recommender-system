@@ -25,3 +25,4 @@ content based + collaborative filtering(hybrid) <br />
 ##### hands on 
 7)adjusted cosine on movie dataset <br /> 
 8)jaccard_similarity on movie dataset <br /> 
+9)Movie Recommender System-content based filtering 
